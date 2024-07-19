@@ -2,7 +2,7 @@
   <h1 align="left"><strong>S H I F T &nbsp; S T U D I O S</strong></h1>
 </div>
 
-<img align="right" src="assets/shiftVerticalAnime.png" height="260px"/> 
+<img align="right" src="assets/shiftVerticalAnime.png" height="240px"/> 
 
 **Shift Studios** is a Roblox game development studio founded by **Shirroz (Dynamic155)** and **T_ANP (Tanpyy)**. Our mission is to
 create high-quality Roblox games that are both fun and engaging, with a solid gameplay loop that pushes the boundaries
